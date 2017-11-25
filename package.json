@@ -1,6 +1,6 @@
 {
   "name": "redux-persist-immutable-x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redux Persist ImmutableX",
   "main": "index.js",
   "dependencies": {
