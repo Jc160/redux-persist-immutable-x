@@ -4,7 +4,8 @@
   "description": "Redux Persist ImmutableX",
   "main": "index.js",
   "dependencies": {
-    "transit-immutable-js": "^0.7.0"
+    "transit-immutable-js": "^0.7.0",
+    "transit-js": "^0.8.846"
   },
   "devDependencies": {},
   "scripts": {
