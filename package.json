@@ -1,0 +1,33 @@
+{
+  "name": "redux-persist-immutable-x",
+  "version": "1.0.0",
+  "description": "Redux Persist ImmutableX",
+  "main": "index.js",
+  "dependencies": {
+    "transit-immutable-js": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jc160/redux-persist-immutable-x.git"
+  },
+  "keywords": [
+    "redux",
+    "immutable",
+    "middleware",
+    "persist"
+  ],
+  "author": {
+    "name": "Jc160",
+    "email": "jramirez@boxxrd.com",
+    "url": "boxxrd.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jc160/redux-persist-immutable-x/issues"
+  },
+  "homepage": "https://github.com/Jc160/redux-persist-immutable-x#readme"
+}
